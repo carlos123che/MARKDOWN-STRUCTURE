@@ -82,9 +82,9 @@ exports.Open = Open;
 ![code](descarga.jfif "code")
 
 <!--GITHUB MARKDOWN-->
-* [ X ] Task 1
-* [ X ] Task 1
-* [  ] Task 1
+* [X] Task 1
+* [X] Task 1
+* [ ] Task 1
 
 
 
